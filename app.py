@@ -39,7 +39,7 @@ app = Flask(__name__)
 def welcome_page():
     return """
     <div class = "container">
-    <h1>Welcome to Sentence Polisher</h1>
+    <h1>Welcome to Sentence Polisher Version 1.1</h1>
 
     <input
         type="text"
