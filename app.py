@@ -45,7 +45,7 @@ def welcome_page():
         type="text"
         id="sentence"
         placeholder="Enter a Sentence">
-    <button id="polishButton" onclick="getSentence()">Polish your Sentence</button>
+    <button id="polishButton" onclick="getSentence()">Polish My Sentence</button>
     <p id = "result">Polished Answer:</p>
     </div>
 
